@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: unizo-sdk
+Version: 0.1.0
+Summary: Unizo MCP SDK for ticketing server
+Home-page: https://github.com/your-org/unizo-sdk
+Author: Your Name
+Author-email: your.email@example.com
+Description-Content-Type: text/markdown
+Requires-Dist: mcp>=0.1.0
+Requires-Dist: pydantic>=2.0.0
+Requires-Dist: langchain>=0.2.16
+Requires-Dist: langchain-core>=0.2.38
+Requires-Dist: langchain-openai>=0.1.25
+Requires-Dist: langchain-community>=0.2.16
+Requires-Dist: crewai>=0.30.0
+Requires-Dist: openai>=1.0.0
+Requires-Dist: python-dotenv>=1.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary

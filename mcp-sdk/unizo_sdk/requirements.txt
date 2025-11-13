@@ -1,0 +1,8 @@
+openai>=1.0.0
+python-dotenv>=1.0.0
+langchain==0.3.26
+langchain-core==0.3.68
+langchain-openai==0.3.27
+pydantic==2.11.7
+mcp==1.10.1
+crewai==0.141.0
